@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#c1{
+
+position: absolute;
+left: 400px;
+top: 100px;
+width: 1500px;
+height: 100px;
+background-color:  rgba(96, 231, 130, 0.849);
+
+border: rgb(255, 251, 0) 5px solid;
+
+}
+
+#c2{
+
+    position: absolute;
+    left: 70px;
+    top: 25px;
+    width: 400px;
+    height: 900px;
+    background-color: rgba(96, 231, 130, 0.849);
+    transform: rotate(-10deg);
+   
+    border: rgb(255, 251, 0) 5px solid;
+
+
+
+}
+#rendimiento{
+
+position: absolute;
+left: 900px;
+top: 150px;
+width: 100px;
+height: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: crimson;
+}
+#marca{
+    position: absolute;
+left: 1100px;
+top: 150px;
+width: 100px;
+height: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#precio{
+    position: absolute;
+left: 1200px;
+top: 150px;
+width: 100px;
+height: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#carro{
+    position: absolute;
+left: -100px;
+top: 250px;
+width: 100px;
+height: 100px;
+
+
+}
+#dragon{
+
+    position: absolute;
+    left: 800px;
+    top: -60px;
+    width: 100px;
+    height: 10px;
+}
+#texto{
+    position: absolute;
+    
+    left: 800px;
+    top: 500px;
+    font-family: 'Alkatra', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Secular One', sans-serif;
+   
+}
